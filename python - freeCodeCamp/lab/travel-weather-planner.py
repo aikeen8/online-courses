@@ -28,3 +28,8 @@ elif distance_mi > 6:
         print(True)
     else:
         print(False)
+
+'''
+OUTPUT:
+True
+'''
