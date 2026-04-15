@@ -1,3 +1,13 @@
+'''
+Booleans and Conditionals 
+==========================
+Lesson consists of:
+- Comparison operators: ==, !=, >, <, >=, <=
+- Logical operators: and, or, not
+- if, elif, else statements
+==========================
+'''
+
 # create the following variables with the given values
 distance_mi = 120
 is_raining = False
